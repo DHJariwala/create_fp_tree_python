@@ -1,7 +1,7 @@
 # Create FP Tree With Given Transactions
 ## Inputs and Outputs
 ### Inputs
-The first line specifies the number of transaction (say n).
+The first line specifies the number of transaction (say n).<br>
 The next n line give space seperated transaction information of variable length.<br><br>
 ![Input](/images/input.png)
 ### Output
